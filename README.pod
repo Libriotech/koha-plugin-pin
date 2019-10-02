@@ -1,0 +1,17 @@
+=pod
+
+=head1 NNPDB
+
+Make sure password is a 4 digit PIN code.
+
+=head1 MINIMUM VERSION
+
+Relies on the changes added to Koha in this bug: L<https://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22706>.
+
+This will hopefully be included in Koha 19.11. (Fingers crossed!)
+
+=head1 AUTHOR
+
+Magnus Enger <magnus@libriotech.no>
+
+=cut
